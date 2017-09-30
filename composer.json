@@ -1,0 +1,19 @@
+{
+    "name": "makhmudov/basis-cms",
+    "authors": [
+        {
+            "name": "Magomed Makhmudov",
+            "email": "zaur.and.morda@gmail.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "System\\": "system",
+            "Cms\\": "cms",
+            "Admin\\": "admin"
+        }
+    }
+
+}
